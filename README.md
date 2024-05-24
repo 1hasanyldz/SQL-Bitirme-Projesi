@@ -1,1 +1,1 @@
-Merhabalar ben Hasan Yıldız Techcareer.net tarafından verilen SQL Data Bootcamp eğitimini en verimli şekilde tamamladım.Proje ödevimi öğrendiğim bilgilerle yaptım.Herşey için teşekkürler.Ahmet hocama değerli bilgilerini bizimle paylaştığı için de Çok teşekkür ederim.
+Merhabalar ben Hasan Yıldız Techcareer.net tarafından verilen SQL Data Bootcamp eğitimini en verimli şekilde tamamladım.Proje ödevimi öğrendiğim bilgiler eşliğinde tamamladım.Herşey için teşekkürler.Ahmet hocama değerli bilgilerini bizimle paylaştığı için de ayrıca çok teşekkür ederim.
